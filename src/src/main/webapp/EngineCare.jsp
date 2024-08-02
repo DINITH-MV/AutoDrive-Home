@@ -22,11 +22,11 @@
     <div class="navBar">
       <nav>
         <a href="#">HOME</a>
-        <a href="http://localhost/Reserva360/Flights/PHP/Flights.php"
+        <a href="#"
           >SERVICES</a
         >
-        <a href="http://localhost/Reserva360/Hotel/PHP/Hotel.php">PACKAGES</a>
-        <a href="http://localhost/Reserva360/ThingsToDo/PHP/ThingsToDo.php"
+        <a href="#">PACKAGES</a>
+        <a href="#"
           >ABOUT US</a
         >
         <a href="http://localhost/Reserva360/Deals/PHP/Deals.php">CONTACT US</a>
