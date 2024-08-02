@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -21,7 +21,7 @@
     <div class="logo">Auto Drive</div>
     <div class="navBar">
       <nav>
-        <a href="http://localhost/Reserva360/Explore/PHP/index.php">HOME</a>
+        <a href="#">HOME</a>
         <a href="http://localhost/Reserva360/Flights/PHP/Flights.php"
           >SERVICES</a
         >
@@ -88,7 +88,7 @@
             placeholder="Vehicle number"
           />
         </div>
-        
+
         <div class="row">
           <label for="branch">Branch:</label>
           <select id="branch" name="branch">
@@ -101,15 +101,18 @@
         <div class="row">
           <label for="date_time">Date and time:</label>
           <input type="datetime-local" id="date_time" name="date_time" />
-        </div> 
-              
+        </div>
+
         <input type="hidden" value="AccidentRepair" name="sType" />
-             
-          <div class="row">
-            <label for="anything_else">Anything else?</label>
-            <textarea id="anything_else" name="anything_else"
-            placeholder="Anything else you would like to let us know?"></textarea>
-          </div>
+
+        <div class="row">
+          <label for="anything_else">Anything else?</label>
+          <textarea
+            id="anything_else"
+            name="anything_else"
+            placeholder="Anything else you would like to let us know?"
+          ></textarea>
+        </div>
         <div class="row">
           <input type="submit" value="Submit" />
         </div>

@@ -21,7 +21,7 @@
     <div class="logo">Auto Drive</div>
     <div class="navBar">
       <nav>
-        <a href="http://localhost/Reserva360/Explore/PHP/index.php">HOME</a>
+        <a href="#">HOME</a>
         <a href="http://localhost/Reserva360/Flights/PHP/Flights.php"
           >SERVICES</a
         >
