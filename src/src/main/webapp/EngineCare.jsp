@@ -29,7 +29,7 @@
         <a href="#"
           >ABOUT US</a
         >
-        <a href="http://localhost/Reserva360/Deals/PHP/Deals.php">CONTACT US</a>
+        <a href="#">CONTACT US</a>
         <div class="animation start-services"></div>
       </nav>
     </div>
